@@ -1,6 +1,7 @@
 # <p style="text-align: center;">fawaz shohiebar</p>
 
-<p s>Beirut, Lebanon | +961 78844100| fawazsho.132@gmail.com</p>
+<p >Beirut, Lebanon | +961 78844100| fawazsho.132@gmail.com</p>
+<img width="100" src="cvpic.jpeg">
 
 
 ## Work Experience
